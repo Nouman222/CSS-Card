@@ -83,7 +83,10 @@ padding: 4px 3px;
     color: #ccc;
 }
 @media screen and (max-width:600px) {
-    flexdirection:column;}
+    main{
+        flexdirection:column;
+    }
+}
 
 
 
